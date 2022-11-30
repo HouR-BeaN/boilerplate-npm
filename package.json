@@ -1,6 +1,6 @@
 {
-  "author": "Arvin Delos Reyes",
   "name": "fcc-learn-npm-package-json",
+  "author": "Arvin Delos Reyes",
   "dependencies": {
     "express": "^4.14.0"
   },
